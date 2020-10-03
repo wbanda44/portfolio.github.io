@@ -23,7 +23,7 @@ body {
     animation: rotate 0.56s infinite linear;
     width:50px;
     height:50px;
-    border:12px solid rgb(255, 44, 90);
+    border:12px solid rgb(20, 95, 117);
     border-bottom:12px solid #fff;
     border-radius:50%;
     margin:0;
@@ -70,7 +70,7 @@ header table {
     transition:0.4s ease-in-out;
 }
 #magnify h1:hover{
-    color:rgb(255, 44, 90);
+    color:rgb(20, 95, 117);
     cursor:pointer;
 }
 #img_here {
@@ -82,7 +82,7 @@ header table {
 }
 #logo {
     font-size:24px;
-    color:rgb(255, 44, 90);
+    color:rgb(20, 95, 117);
 }
 #navigation {
     text-align:right;
@@ -127,7 +127,7 @@ header table {
     text-align:left;
 }
 .social {
-    color:rgb(255, 44, 90);
+    color:rgb(20, 95, 117);
     font-size:23px;
     padding:12px 17px;
     border-radius:50%;
@@ -139,7 +139,7 @@ header table {
 .social:hover { 
     cursor: pointer;
     color:#fff;
-    background:rgb(255, 44, 90);
+    background:rgb(20, 95, 117);
     box-shadow:0px 10px 30px rgba(255, 66, 107,0.8);
 }
 .btn_one {
@@ -147,7 +147,7 @@ header table {
     font-family: 'Poppins', sans-serif;
     color:rgb(255, 44, 90);
     background:#fff;
-    border:3px solid rgb(255, 44, 90);
+    border:3px solid rgb(20, 95, 117);
     padding:8px 40px;
     width:35%;
     border-radius:80px;
@@ -156,10 +156,10 @@ header table {
     transition:0.4s ease-in-out;
 }
 .btn_one:hover {
-    box-shadow:0px 10px 30px rgba(255, 44, 90, 0.8);
+    box-shadow:0px 10px 30px rgba(20, 95, 117, 0.8);
     cursor:pointer;
     color:#fff;
-    background:rgb(255, 44, 90);
+    background:rgb(20, 95, 117);
 }
 #rightImage {
     width:100%;
